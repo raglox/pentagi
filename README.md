@@ -16,6 +16,7 @@
 
 - [Overview](#-overview)
 - [Features](#-features)
+- [LLM Architecture Documentation](#-llm-architecture-documentation) ⭐ **NEW**
 - [Quick Start](#-quick-start)
 - [Advanced Setup](#-advanced-setup)
 - [Development](#-development)
@@ -32,6 +33,37 @@ PentAGI is an innovative tool for automated security testing that leverages cutt
 
 You can watch the video **PentAGI overview**:
 [![PentAGI Overview Video](https://github.com/user-attachments/assets/0828dc3e-15f1-4a1d-858e-9696a146e478)](https://youtu.be/R70x5Ddzs1o)
+
+## 📚 LLM Architecture Documentation
+
+**⭐ NEW: Comprehensive LLM Architecture Analysis Available!**
+
+We've created detailed documentation analyzing the entire LLM architecture of PentAGI, covering all providers, agents, and configurations.
+
+### 📄 Available Documentation
+
+- **[English Version](./LLM_ARCHITECTURE_ANALYSIS_EN.md)** - Complete analysis in English
+- **[Arabic Version (العربية)](./LLM_ARCHITECTURE_ANALYSIS_AR.md)** - تحليل شامل بالعربية
+- **[Documentation Overview](./LLM_ARCHITECTURE_DOCUMENTATION_README.md)** - Quick navigation guide
+
+### 🎯 What's Covered
+
+This comprehensive documentation includes:
+
+- ✅ **6 LLM Providers** - OpenAI, Anthropic, Gemini, Bedrock, Ollama, Custom
+- ✅ **15 Specialized Agents** - Complete role descriptions and capabilities
+- ✅ **34 Prompt Templates** - System prompts for each agent
+- ✅ **20+ System Tools** - Available tools and their usage
+- ✅ **50+ Models** - Detailed specifications and pricing
+- ✅ **Configuration Examples** - Ready-to-use configurations
+- ✅ **Model Selection Strategies** - Optimization guidance
+- ✅ **Architecture Insights** - Deep dive into the multi-agent system
+
+Perfect for:
+- 🔧 Developers extending the system
+- 📊 Analysts understanding the architecture
+- 💰 Teams planning costs and resources
+- 🎓 Researchers studying AI agent systems
 
 ## ✨ Features
 
